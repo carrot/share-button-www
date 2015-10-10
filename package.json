@@ -18,5 +18,8 @@
   "homepage": "https://github.com/carrot/share-button-www#readme",
   "dependences": {
     "share-button": "1.0.x"
+  },
+  "dependencies": {
+    "share-button": "^1.0.1"
   }
 }
