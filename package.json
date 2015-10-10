@@ -1,0 +1,22 @@
+{
+  "name": "share-button-www",
+  "version": "1.0.0",
+  "description": "share-button's website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carrot/share-button-www.git"
+  },
+  "author": "Henry Snopek <hhsnopek@gmail.com> (http://hhsnopek.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carrot/share-button-www/issues"
+  },
+  "homepage": "https://github.com/carrot/share-button-www#readme",
+  "dependences": {
+    "share-button": "1.0.x"
+  }
+}
